@@ -2,7 +2,7 @@
 
 A secure wallet generator for Octra blockchain.
 
-## Quick Start
+## Quick Start and clone the repository
 
 1. **Clone the repository:**
    ```bash
